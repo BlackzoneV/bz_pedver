@@ -23,7 +23,6 @@ Gibi komutları kullanabilir
 <br>
 /a-pedsil
 </h5>
-<br>
 komutları adminlere özel kullanabilmeleri için grubu yetkilendirmeniz gerekiyor.
 <br>
 Örnek;
