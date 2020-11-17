@@ -8,14 +8,20 @@ Config'den hexlerini ayarladığınız kişiler
 
 Komutlar;
 <br>
+<hr2>
 /pedim
+<br>
 /pedsil
+<br>
 /pedfix
+</hr2>
 <br>
 Gibi komutları kullanabilir
 <br>
 /a-pedver
+<br>
 /a-pedsil
+<br>
 komutları adminlere özel kullanabilmeleri için grubu yetkilendirmeniz gerekiyor.
 <br>
 Örnek;
