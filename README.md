@@ -8,13 +8,13 @@ Config'den hexlerini ayarladığınız kişiler
 
 Komutlar;
 <br>
-<hr2>
+<h2>
 /pedim
 <br>
 /pedsil
 <br>
 /pedfix
-</hr2>
+</h2>
 <br>
 Gibi komutları kullanabilir
 <br>
