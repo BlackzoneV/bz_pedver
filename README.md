@@ -22,7 +22,7 @@ Gibi komutları kullanabilir
 /a-pedver
 <br>
 /a-pedsil
-<h5>
+</h5>
 <br>
 komutları adminlere özel kullanabilmeleri için grubu yetkilendirmeniz gerekiyor.
 <br>
